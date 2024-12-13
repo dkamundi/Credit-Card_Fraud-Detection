@@ -72,7 +72,7 @@ Based on the current results, future steps may include:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone [https://github.com/your-repo-name.git](https://github.com/dkamundi/Credit-Card_Fraud-Detection.git)
    ```
 2. Install dependencies:
    ```bash
